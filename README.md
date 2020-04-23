@@ -10,4 +10,8 @@ Then, possibly create a model to determine what other account holders that do no
 
 ## Background
 
+Banking data is all from accounts opened between the beginning of 1993 and the end of 1997. Therefore, at the time of collection, all accounts were at least 1 year old.
+
+Clients who have/had loans range in age from 18-63.
+
 ## Results/Conclusions
